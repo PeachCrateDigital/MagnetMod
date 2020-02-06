@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "magnetized:block/load_stone_ore"
+    }
+  }
+}

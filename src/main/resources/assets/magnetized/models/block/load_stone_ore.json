@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "particle": "magnetized:block/load_stone_ore",
+    "all": "magnetized:block/load_stone_ore",
+    "up": "magnetized:block/load_stone_ore",
+  }
+}
